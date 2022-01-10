@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/ubuntu/im-sprint-practice-deploy-master/server
+cd /home/ubuntu/다운로드/im-sprint-practice-deploy-master/server
 npm install
 npm install pm2@latest -g
 sudo apt-get update

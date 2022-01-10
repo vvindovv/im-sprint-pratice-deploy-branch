@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/ubuntu/im-sprint-practice-deploy-master/server
+cd /home/ubuntu/다운로드/im-sprint-practice-deploy-master/server
 authbind --deep pm2 start app.js
